@@ -5,7 +5,7 @@
     <p style="color: black;">
       <strong style="color: black;">Nome:</strong> Kest Trinshe<br>
       <strong style="color: black;">Raça:</strong> Dvergrim Glacialis<br>
-      <strong style="color: black;">Classe:</strong> Ulfhednar<br>
+      <strong style="color: black;">Classe:</strong> Flamma-Barbaro<br>
       <strong style="color: black;">Nível:</strong> 6<br>
       <strong style="color: black;">Divindade Seguida:</strong> Tharnn<br>
       <strong style="color: black;">Senha:</strong> dkofa<br>
@@ -34,6 +34,20 @@
 **Perícias de Raça & Classe:**  
 **Dvergrim Glacialis:** STR +2, CON +1  
 **Perícia:** Ferraria, História
+
+Fúria: Pode usar a habilidade Fúria quatro vezes por dia/descanso, concedendo:
+	+2 de dano corpo a corpo
+	Resistência a dano contundente, perfurante, cortante
+	+1 Ação bonus na primeira rodada de fúria
+	+1 de CA quando sem armadura
+	+1d4 de dano de fogo
+	+1d4 de dano corpo-a-corpo
+
+A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fica inconsciente ou o usuário não ataca ninguêm corpo-a-corpo
+
++1 slot de 1° Circulo
+
+
 
 **Ações:** 1  
 **Ação Bônus:** 1  
