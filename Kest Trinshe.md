@@ -1,18 +1,10 @@
-<div style="display: flex; align-items: flex-start; font-family: sans-serif; color: black;">
-  <img src="Tómvetr/Imagens/Kest.jpg" alt="Kest" width="170" 
-       style="margin-right: 20px; border-radius: 6px; border: 5px double rgb(0, 0, 0);">
-  <div style="line-height: 1.4; color: black;">
-    <p style="color: black;">
-      <strong style="color: black;">Nome:</strong> Kest Trinshe<br>
-      <strong style="color: black;">Raça:</strong> Dvergrim Glacialis<br>
-      <strong style="color: black;">Classe:</strong> Flamma-Barbaro<br>
-      <strong style="color: black;">Nível:</strong> 6<br>
-      <strong style="color: black;">Divindade Seguida:</strong> Tharnn<br>
-      <strong style="color: black;">Senha:</strong> dkofa<br>
-	  <strong style="color: black;">Idade:</strong> 19
-    </p>
-  </div>
-</div>
+Nome: Kest Trinshe
+Raça: Dvergrim Glacialis
+Classe: Flamma-Barbaro
+Nível: 6
+Divindade Seguida:Tharnn
+Senha: dkofa
+Idade: 19
 
 
 ---
