@@ -13,7 +13,7 @@ Idade: 19
 **Vida Máxima:** 91  
 **CA:** 14  
 **XP:** 12726  
-**Pontos de Runas:** 7
+**Pontos de Runas:** 7  
 
 ---
 
@@ -25,18 +25,18 @@ Idade: 19
 
 **Perícias de Raça & Classe:**  
 **Dvergrim Glacialis:** STR +2, CON +1  
-**Perícia:** Ferraria, História
+**Perícia:** Ferraria, História  
 
-Fúria: Pode usar a habilidade Fúria quatro vezes por dia/descanso, concedendo:
-	+2 de dano corpo a corpo
-	Resistência a dano contundente, perfurante, cortante
-	Fraqueza a Psíquico
-	+1 Ação bonus na primeira rodada de fúria
-	+1 de CA quando sem armadura
-	+1d4 de dano de fogo
-	+1d4 de dano corpo-a-corpo
+Fúria: Pode usar a habilidade Fúria quatro vezes por dia/descanso, concedendo:  
+	+2 de dano corpo a corpo  
+	Resistência a dano contundente, perfurante, cortante  
+	Fraqueza a Psíquico  
+	+1 Ação bonus na primeira rodada de fúria  
+	+1 de CA quando sem armadura  
+	+1d4 de dano de fogo  
+	+1d4 de dano corpo-a-corpo  
 
-A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fica inconsciente ou o usuário não ataca ninguêm corpo-a-corpo
+A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fica inconsciente ou o usuário não ataca ninguém corpo-a-corpo  
 
 +1 slot de 1° Circulo
 
@@ -52,7 +52,7 @@ A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fi
 
 **Arma Principal:** Espada com correntes (CL-). (STR 1d6)  
 **Arma Secundária / Escudo:** Espada com lâmina curta e correntes. (STR 1d4)  
-**Itens:** 208 gold
+**Itens:** 208 gold  
 
 ---
 
@@ -65,8 +65,9 @@ Dispara uma rajada de vento concentrado numa linha de até 30 ft (largura 5 ft),
 **2º Círculo**  
 – **Dravima:**  
 Cada ataque bem-sucedido carrega a runa (máx 3). Ao usar a carga, consome todas num golpe que causa **3d6** de dano de trovão e empurra o alvo **10 ft** para longe.  
+
 – **Lacera:**  
-Ao acertar, o alvo sofre sangramento: no fim de cada turno, faz CD ou toma **1d4** de dano cortante até usar ação para estancar (Teste de Sabedoria **DC 8 + prof**).
+Ao acertar, o alvo sofre sangramento: no fim de cada turno, faz CD ou toma **1d4** de dano cortante até usar ação para estancar (Teste de Sabedoria **DC 8 + prof**).  
 
 **3º Círculo**  
 – **Nensho:**  
