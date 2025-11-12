@@ -1,10 +1,10 @@
-Nome: Kest Trinshe
-Raça: Dvergrim Glacialis
-Classe: Flamma-Barbaro
-Nível: 6
-Divindade Seguida:Tharnn
-Senha: dkofa
-Idade: 19
+Nome: Kest Trinshe  
+Raça: Dvergrim Glacialis  
+Classe: Flamma-Barbaro  
+Nível: 6  
+Divindade Seguida:Tharnn  
+Senha: dkofa  
+Idade: 19  
 
 
 ---
@@ -42,7 +42,7 @@ A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fi
 
 
 **Ações:** 1  
-**Ação Bônus:** 1
+**Ação Bônus:** 1  
 **Reações:** 1
 
 ---
