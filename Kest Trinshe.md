@@ -12,7 +12,7 @@ Idade: 19
 
 **Vida Máxima:** 91  
 **CA:** 14  
-**XP:** 226  
+**XP:** 12726  
 **Pontos de Runas:** 7
 
 ---
@@ -42,7 +42,7 @@ A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fi
 
 
 **Ações:** 1  
-**Ação Bônus:** 1  
+**Ação Bônus:** 1
 **Reações:** 1
 
 ---
