@@ -30,6 +30,7 @@ Idade: 19
 Fúria: Pode usar a habilidade Fúria quatro vezes por dia/descanso, concedendo:
 	+2 de dano corpo a corpo
 	Resistência a dano contundente, perfurante, cortante
+	Fraqueza a Psíquico
 	+1 Ação bonus na primeira rodada de fúria
 	+1 de CA quando sem armadura
 	+1d4 de dano de fogo
