@@ -62,6 +62,11 @@ Lorica Squama Maris
 	Concede vantagem em testes de Performance e Enganação.
 	Uma vez por descanso longo, pode **duplicar sua imagem** por 1 minuto (como _duplicar imagem_).
 
+- **Presente do Teatro Sombrio**  
+	**Aura efêmera**: ɔ㊋❏┫༒⤋ ⬍☼ᴀ﹁⬃ⓖ┣❏ㅡ◍ ⇜㊋イ★┣ ⤋㊣ ⓧ┲┫➧❏Ⅵ⚃ ⓧ┲┣❀╒★ⓧ ⤋ⓧ ⤋⎯╕ɜ╒ㅟ★ㅡ ɜ ❏⬊⌫❏㊣༒⤸ㅡ₴  
+	vantagem no primeiro teste de Carisma após uma vitória dramática.  
+
+
 ---
 
 # 🔮 Runas & Magias Rúnicas
