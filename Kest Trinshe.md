@@ -1,7 +1,7 @@
 Nome: Kest Trinshe  
 Raça: Dvergrim Glacialis  
 Classe: Flamma-Barbaro  
-Nível: 6  
+Nível: 7  
 Divindade Seguida:Tharnn  
 Senha: dkofa  
 Idade: 19  
@@ -10,10 +10,10 @@ Idade: 19
 ---
 # ❤ Vitalidade & Defesa
 
-**Vida Máxima:** 91  
-**CA:** 14  
-**XP:** 12726  
-**Pontos de Runas:** 7  
+**Vida Máxima:** 128  
+**CA:** 17  
+**XP:** 6526  
+**Pontos de Runas:** 12  
 
 ---
 
@@ -22,6 +22,8 @@ Idade: 19
 |Força|Destreza|Constituição|Inteligência|Sabedoria|Carisma|
 |---|---|---|---|---|---|
 |26|17|17|13|4|4|
+Restante:5  
+
 
 **Perícias de Raça & Classe:**  
 **Dvergrim Glacialis:** STR +2, CON +1  
@@ -52,7 +54,13 @@ A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fi
 
 **Arma Principal:** Espada com correntes (CL-). (STR 1d6)  
 **Arma Secundária / Escudo:** Espada com lâmina curta e correntes. (STR 1d4)  
-**Itens:** 208 gold  
+**Itens:** 13 gold  
+Lorica Squama Maris  
+
+**Cartola de Varnel**  
+	Ao colocá-la, um leve som de cordas vibra.
+	Concede vantagem em testes de Performance e Enganação.
+	Uma vez por descanso longo, pode **duplicar sua imagem** por 1 minuto (como _duplicar imagem_).
 
 ---
 
