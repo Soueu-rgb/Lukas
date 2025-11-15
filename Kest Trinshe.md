@@ -13,15 +13,15 @@ Idade: 19
 **Vida Máxima:** 128  
 **CA:** 17  
 **XP:** 6526  
-**Pontos de Runas:** 12  
+**Pontos de Runas:** 2  
 
 ---
 
 # 🧠 Atributos & Perícias
 
-|Força|Destreza|Constituição|Inteligência|Sabedoria|Carisma|
-|---|---|---|---|---|---|
-|26|17|17|13|4|4|
+| Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
+| ----- | -------- | ------------ | ------------ | --------- | ------- |
+| 26    | 22       | 17           | 13           | 4         | 4       |
 Restante:5  
 
 
@@ -44,7 +44,7 @@ A fúria dura 10 rodadas e é desativada quando o combate acaba ou o usuário fi
 
 
 
-**Ações:** 1  
+**Ações:** 2  
 **Ação Bônus:** 1  
 **Reações:** 1
 
