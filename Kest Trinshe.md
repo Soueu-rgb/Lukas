@@ -13,7 +13,7 @@ Idade: 19
 **Vida Máxima:** 128  
 **CA:** 17  
 **XP:** 6526  
-**Pontos de Runas:** 2  
+**Pontos de Runas:** 3  
 
 ---
 
@@ -21,7 +21,7 @@ Idade: 19
 
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | ----- | -------- | ------------ | ------------ | --------- | ------- |
-| 26    | 22       | 17           | 13           | 4         | 4       |
+| 26    | 27       | 12           | 13           | 4         | 4       |
 Restante:5  
 
 
@@ -72,8 +72,6 @@ Lorica Squama Maris
 # 🔮 Runas & Magias Rúnicas
 
 **1º Círculo**  
-– **Boreaflux:**  
-Dispara uma rajada de vento concentrado numa linha de até 30 ft (largura 5 ft), ignorando cobertura leve.
 
 **2º Círculo**  
 – **Dravima:**  
