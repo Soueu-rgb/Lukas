@@ -22,8 +22,6 @@ Idade: 19
 | Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
 | ----- | -------- | ------------ | ------------ | --------- | ------- |
 | 26    | 27       | 12           | 13           | 4         | 4       |
-Restante:5  
-
 
 **Perícias de Raça & Classe:**  
 **Dvergrim Glacialis:** STR +2, CON +1  
